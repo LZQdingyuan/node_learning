@@ -1,0 +1,19 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nyc": "^14.1.1",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.2"
+  }
+}
